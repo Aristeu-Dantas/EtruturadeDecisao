@@ -1,4 +1,4 @@
-# EtruturadeDecisao
+# EtruturadeDecisao - https://wiki.python.org.br/ListaDeExercicios
 
 Questões de Python para revisar.
 
